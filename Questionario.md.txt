@@ -12,4 +12,6 @@ São ramificações do seu projeto.
 Ela e um convite para o dono do repositorio. com pedido ou inteção de alterações no seu projeto principal.
 9 - O que é fork?
 É um clone de um repositorio online. para seu perfil "conta" online.
+10 - O que é um VCS?
+É um software de codigos e alterações.
 
