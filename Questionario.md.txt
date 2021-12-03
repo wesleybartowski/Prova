@@ -2,5 +2,6 @@
 É clonar o repositorio online para um repositorio local.
 2 - O que é commit?
 É alterações em um codigo.
-
+3 - O que é um repositório?
+É a pasta do seu projeto.
 
