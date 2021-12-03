@@ -5,5 +5,5 @@
 3 - O que é um repositório?
 É a pasta do seu projeto.
 5 - O que é pull?
-É uma atualização do repositorio local.
+É uma atualização do repositorio local. ele puxa do repositorio online. como se fosse um merge!
 
