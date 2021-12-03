@@ -8,5 +8,7 @@
 É uma atualização do repositorio local. ele puxa do repositorio online. como se fosse um merge!
 7 - O que é branch?
 São ramificações do seu projeto.
+8 - O que é pull request?
+Ela e um convite para o dono do repositorio. com pedido ou inteção de alterações no seu projeto principal.
 
 
