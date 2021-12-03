@@ -4,4 +4,6 @@
 É alterações em um codigo.
 3 - O que é um repositório?
 É a pasta do seu projeto.
+5 - O que é pull?
+É uma atualização do repositorio local.
 
