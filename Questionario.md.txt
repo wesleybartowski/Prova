@@ -1,2 +1,6 @@
 1 - O que é clone?
 É clonar o repositorio online para um repositorio local.
+2 - O que é commit?
+É alterações em um codigo.
+
+
