@@ -10,5 +10,6 @@
 São ramificações do seu projeto.
 8 - O que é pull request?
 Ela e um convite para o dono do repositorio. com pedido ou inteção de alterações no seu projeto principal.
-
+9 - O que é fork?
+É um clone de um repositorio online. para seu perfil "conta" online.
 
