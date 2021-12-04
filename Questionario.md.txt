@@ -15,3 +15,4 @@ Ela e um convite para o dono do repositorio. com pedido ou inteção de alteraç
 10 - O que é um VCS?
 É um software de codigos e alterações.
 
+
